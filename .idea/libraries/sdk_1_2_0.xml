@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sdk-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.estimote/sdk/1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.estimote/sdk/1.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.estimote/sdk/1.2.0/8f4dd77b4ec86e9c05a00c29daa670231e37e91b/sdk-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
